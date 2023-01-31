@@ -1,4 +1,3 @@
-// Dockerfile
 # Add a new comment to trigger build.
 # ==== CONFIGURE =====
 # Use a Node 16 base image
